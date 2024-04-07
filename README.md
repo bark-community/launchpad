@@ -123,6 +123,7 @@ Contributions are encouraged! Please refer to [CONTRIBUTING.md](CONTRIBUTING.md)
 ## Acknowledgments
 
 - [Chainlink](https://dev.chain.link/) for providing reliable oracle services for ETH/USD and SOL/USD price feeds.
+- [Chainlink](https://github.com/smartcontractkit/ccip-starter-kit-hardhat) Chainlink Cross-Chain Interoperability Protocol (CCIP) provides a single, simple interface through which dApps and web3 entrepreneurs can securely cross-chain, including token transfers and arbitrary messaging.
 - [OpenZeppelin](https://openzeppelin.com/) for their comprehensive smart contract library.
 - [Anchor](https://www.anchor-lang.com/) for the development framework for Solana programs.
 - [Circle](https://developers.circle.com/stablecoins/docs/cctp-getting-started?_gl=1*rl4fm4*_gcl_au*NTA4MTY3NzAyLjE3MTI0Njk1OTE.*_ga*MTgzMTY2NzQ5My4xNzEyNDY5NTkx*_ga_GJDVPCQNRV*MTcxMjQ2OTU5MS4xLjEuMTcxMjQ2OTYyOC4yMy4wLjA.) Cross-Chain Transfer Protocol (CCTP) enables USDC to flow securely between blockchains.
