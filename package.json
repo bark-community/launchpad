@@ -1,0 +1,27 @@
+{
+  "name": "smart-contracts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "ethereum-program": "",
+    "solana-program": "",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "BARK Protocol",
+  "license": "MIT",
+  "dependencies": {
+    "@coral-xyz/anchor": "^0.29.0",
+    "@coral-xyz/borsh": "0.29.0",
+    "@solana/web3.js": "^1.91.4",
+    "@solana/spl-token": "0.4.3",
+    "dotenv": "^16.4.5",
+    "typescript": "^5.4.4"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bark-community/smart-contracts"
+  }
+}
